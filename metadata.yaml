@@ -1,0 +1,32 @@
+_repo: The-2008-CIA-World-Factbook_29233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Central Intelligence Agency
+    aliases:
+    - CIA (Central Intelligence Agency (U.S.))
+    - Central Intelligence Agency (U.S.)
+    - Agency, United States. Central Intelligence
+    gutenberg_agent_id: '8'
+    url: http://www.gutenberg.org/2009/agents/8
+description: ''
+gutenberg_bookshelf: CIA World Factbooks
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World politics -- Handbooks, manuals, etc.'
+- !lcsh 'Political science -- Handbooks, manuals, etc.'
+- !lcsh 'Geography -- Handbooks, manuals, etc.'
+- !lcsh 'Political statistics -- Handbooks, manuals, etc.'
+- !lcc 'G'
+title: The 2008 CIA World Factbook
+url: http://www.gutenberg.org/ebooks/29233
